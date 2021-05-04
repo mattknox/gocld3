@@ -1,3 +1,3 @@
-module github.com/jmhodges/gocld3
+module github.com/mattknox/gocld3
 
-go 1.13
+go 1.16
